@@ -1,0 +1,16 @@
+@media(max-width:768px){
+.resumo_fn_main_title .title:after{
+    left: 100px;
+}
+.resumo_fn_about_info{
+    margin-bottom: 60px;
+}
+#portfolio ,#services,#customers,#news,#contact{padding: 40px 0;}
+.resumo_fn_right .right_in{
+    padding:80px 0 50px 0;
+}
+#services,#news,#contact{text-align: center;}
+#customers .resumo_fn_main_title{margin-bottom:50px;text-align: center;}
+#portfolio .resumo_fn_main_title .title{font-size: 24px;  }
+#portfolio .resumo_fn_main_title .title:after{ left: 0;}
+}
